@@ -8,3 +8,4 @@ Et on le fait passer dans john the ripper avec ```./john passwd```
 
 On obtient ```flag01:abcdefg:3001:3001::/home/flag/flag01:/bin/bash```
 
+On s'en sert de mdp pour ```su flag01``` ensuite on tape ```getflag``` pour obtenir le flag ```f2av5il02puano7naaf6adaaf```
